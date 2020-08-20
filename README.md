@@ -1,7 +1,6 @@
 <!DOCTYPE html> 
- <html> 
 <head> 
-<title>Responsive Layout</title> 
+<title>Assignment Solution for Module 2</title> 
 <meta name="viewport" content="width=device-width, initial-scale=1"> 
 <link rel="stylesheet" type="text/css" href="style2.css"> 
 </head> 
