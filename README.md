@@ -1,5 +1,7 @@
-<!DOCTYPE html> 
-<head> 
+<html> 
+<html lang="en">
+<head>
+<meta charset="utf-8">
 <title>Assignment Solution for Module 2</title> 
 <meta name="viewport" content="width=device-width, initial-scale=1"> 
 <link rel="stylesheet" type="text/css" href="style2.css"> 
